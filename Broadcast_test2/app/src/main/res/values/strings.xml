@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Broadcast_test</string>
-    <string name="send">send my broadcast</string>
-    <string name="order">send ordered broadcast</string>
-    <string name="local">send local broadcast</string>
-    <string name="jump">jump to another activity</string>
-</resources>
