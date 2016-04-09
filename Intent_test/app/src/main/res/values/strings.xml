@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intent_test</string>
+    <string name="second_layout">welcome_to_second_layout</string>
+    <string name="callback">callback</string>
+    <string name="goodbye">Goodbye world</string>
+    <string name="any">I want go to anywhere</string>
+    <string name="back">take me back to anywhere</string>
+    <string name="a_website">show me a website</string>
+    <string name="phone">whose phone number</string>
+    <string name="show">i will show you some thing</string>
+    <string name="pass">pass something to the next</string>
+    <string name="result">start activity for result</string>
+    <string name="backing">give back something</string>
+    <string name="another">just another activity</string>
+    <string name="process">just wait a minute</string>
+</resources>
