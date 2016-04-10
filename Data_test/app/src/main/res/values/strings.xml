@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data_test</string>
+    <string name="show">show you something here</string>
+    <string name="biu">biu! biu! biu!</string>
+    <string name="jump">jump to another activity</string>
+    <string name="something">type something here</string>
+    <string name="save">save share preferences</string>
+    <string name="load">load share preferences</string>
+    <string name="text2">show share preferences</string>
+    <string name="jump2">jump to share preferences</string>
+</resources>
